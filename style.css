@@ -12,6 +12,7 @@ h1{
 
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .Upperbox{
     width: 50%;
@@ -36,4 +37,10 @@ section{
     background-repeat: no-repeat;
 }
 
+
+.extra{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 
